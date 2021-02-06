@@ -32,7 +32,6 @@ char opcao_menu() {
  int i;
  char *banner[] = {
   "Operator Calc",
-  "coded by Cooler_  visit http://botecounix.com.br",
   "put with example",
   "operators:+,-,*,/ ",
   "(s)para Sair",
